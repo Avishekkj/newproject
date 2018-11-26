@@ -1,13 +1,6 @@
 
-import sys
-
-sys.getrecursionlimit(1500
-                      )
-print(sys.getrecursionlimit())
-
-
 def fact():
-    n =int(input("enter a value "))
+    n =5
     x=1
     for a in range(1,n+1):
             x = x*a
