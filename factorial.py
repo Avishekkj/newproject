@@ -1,6 +1,6 @@
 
 def fact():
-    n =5
+    n =10
     x=1
     for a in range(1,n+1):
             x = x*a
